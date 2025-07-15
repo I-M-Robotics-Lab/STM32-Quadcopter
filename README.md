@@ -23,10 +23,13 @@ To enter DFU mode, hold the **BOOT** button on the Blackpill while powering it o
   <img src="4.Docs/Pictures/Screenshot2025-07-15at12.32.55PM.png" alt="1" width="500">
 </div>
 
+A progress bar will appear during firmware flash.
+
 <div style="text-align: center;">
   <img src="4.Docs/Pictures/Screenshot2025-07-15at12.35.22PM.png" alt="2" width="500">
 </div>
 
+When the firmware is successfully flashed, click connect. The configuration menu should show up. 
 <div style="text-align: center;">
   <img src="4.Docs/Pictures/Screenshot2025-07-15at12.45.55PM.png" alt="3" width="500">
 </div>
