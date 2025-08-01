@@ -22,13 +22,15 @@
 #define SPI2_MISO_PIN  PB14
 #define SPI2_MOSI_PIN  PB15
 
-/*
+//uncomment this block for MPU9250
+/*  
 #define USE_IMU_MPU9250
 #define IMU_MPU9250_ALIGN   CW0_DEG
 #define MPU9250_CS_PIN      PB12
 #define MPU9250_SPI_BUS     BUS_SPI2
 */
 
+//comment out this block for MPU9250
 #define USE_IMU_MPU6500
 #define IMU_MPU6500_ALIGN   CW0_DEG
 #define MPU6500_CS_PIN      PB12
