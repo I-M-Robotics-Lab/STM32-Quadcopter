@@ -7,6 +7,34 @@ The frame is composed mostly of 2D parts cut from carbon-fiber sheets. Alternati
 <img src="4.Docs/Pictures/full_iso.jpg" alt="Front view of frame" width="800">
 <img src="4.Docs/Pictures/full_front_far.jpg" alt="Front view of frame" width="800">
 <img src="4.Docs/Pictures/full_front.jpg" alt="Front view of frame" width="800">
+
+---
+
+## Table of Contents
+
+- [Introduction](#stm32-quadcopter-low-cost-quadcopter-design)
+- [Frame](#frame)
+  - [CF Components](#cf-components)
+  - [ABS Components](#abs-components)
+  - [Mechanical Components BOM](#mechanical-components-bom)
+- [Electronics](#electronics)
+  - [Electronics BOM](#electronics-bom)
+  - [SMD Components](#smd-components)
+  - [Pins](#pins)
+  - [Sample Diagram](#sample-diagram)
+  - [GPS (UART1) Wiring](#gps-uart1-wiring)
+  - [Capacitor for Spike Filtering](#capacitor-for-spike-filtering)
+- [Firmware](#firmware)
+  - [Build](#build)
+    - [Prerequisites](#prerequisites)
+    - [Clone INAV](#clone-inav)
+    - [Add Target](#add-target)
+    - [Patch Code](#patch-code)
+    - [Build](#build-1)
+  - [Flash](#flash)
+  - [MPU9250 Issue](#mpu9250-issue)
+- [Configuration and Setting Up](#configuration-and-setting-up)
+
 ---
 
 ## Frame
