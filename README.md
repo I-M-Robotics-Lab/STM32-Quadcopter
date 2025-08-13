@@ -6,11 +6,9 @@ The frame is composed mostly of 2D parts cut from carbon-fiber sheets. Alternati
 
 <html>
   <body>
-    <!-- First row: single image -->
     <div style="max-width: 800px; margin: auto;">
       <img src="4.Docs/Pictures/IMG_0761.JPG" alt="pic1" style="width: 100%; display: block; margin-bottom: 10px;">
     </div>
-    <!-- Following rows: two per row -->
     <div style="max-width: 800px; margin: auto; display: flex; flex-wrap: wrap; gap: 10px;">
       <img src="4.Docs/Pictures/IMG_0766.jpg" alt="pic2" style="width: calc(50% - 5px);">
       <img src="4.Docs/Pictures/IMG_0771.jpg" alt="pic3" style="width: calc(50% - 5px);">
