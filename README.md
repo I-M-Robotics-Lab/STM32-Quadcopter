@@ -5,13 +5,14 @@ This is a quadcopter design based on the STM32F411CEU Blackpill flight controlle
 The frame is composed mostly of 2D parts cut from carbon-fiber sheets. Alternatively, you can 3D-print parts in carbon-fiber-reinforced filaments (PET-CF, PAHT-CF, PA6-CF, PPS-CF), with less-critical components in ABS.
 
 | <img src="4.Docs/Pictures/IMG_0761.JPG" alt="pic1" width="800"> |
-|---|
+| --- |
 
 | <img src="4.Docs/Pictures/IMG_0766.jpg" alt="pic2" width="395"> | <img src="4.Docs/Pictures/IMG_0771.jpg" alt="pic3" width="395"> |
-|---|---|
+| --- | --- |
 
 | <img src="4.Docs/Pictures/full_iso.jpg" alt="Front view of frame" width="395"> | <img src="4.Docs/Pictures/full_front_far.jpg" alt="Front view of frame" width="395"> |
-|---|---|
+| --- | --- |
+
 ---
 
 ## Table of Contents
