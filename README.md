@@ -6,6 +6,8 @@ The frame is composed mostly of 2D parts cut from carbon-fiber sheets. Alternati
 
 3D models and print profiles are available at: https://makerworld.com/en/models/1695470-quadcopter-3d-printable-stm32-mcu#profileId-1797658
 
+Discord: https://discord.com/invite/WJuUWsy6DJ
+
 | <img src="4.Docs/Pictures/IMG_0761.JPG" alt="pic1" width="800"> |
 | --- |
 
