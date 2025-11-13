@@ -1,12 +1,17 @@
 # STM32-Quadcopter: Low-cost Quadcopter Design
 
+### Description
+
+[![Firmware](https://img.shields.io/badge/Firmware-INAV-blue.svg)](https://github.com/iNavFlight/inav)
+[![Platform](https://img.shields.io/badge/Platform-STM32%20Uno-00979D.svg)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+
+**[Website](https://www.imroboticslab.com/releases)** | **[Documentation](https://www.imroboticslab.com/docs/stm32-quadcopter)**  | **[Community Discord](https://discord.com/invite/WJuUWsy6DJ)** | **[3D Models & Prints](https://makerworld.com/en/models/1695470-quadcopter-3d-printable-stm32-mcu#profileId-1797658)**
+
 This is a quadcopter design based on the STM32F411CEU Blackpill flight controller. The flight controller is compatible with INAV 6.0 firmware. The flight controller uses an MPU6500 for inertial measurements and a BMP280 for altitude sensing, and also supports an optional GPS and magnetometer module.
 
 The frame is composed mostly of 2D parts cut from carbon-fiber sheets. Alternatively, you can 3D-print parts in carbon-fiber-reinforced filaments (PET-CF, PAHT-CF, PA6-CF, PPS-CF), with less-critical components in ABS.
-
-3D models and print profiles are available at: https://makerworld.com/en/models/1695470-quadcopter-3d-printable-stm32-mcu#profileId-1797658
-
-Discord: https://discord.com/invite/WJuUWsy6DJ
 
 | <img src="4.Docs/Pictures/IMG_0761.JPG" alt="pic1" width="800"> |
 | --- |
